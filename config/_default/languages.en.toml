@@ -1,0 +1,16 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Blowfish"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+
+[author]
+name = "L01D"
+image = "IMG_3225.jpeg"
+headline = "idk"
+bio = "idk"
