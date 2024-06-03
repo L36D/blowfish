@@ -1,6 +1,7 @@
 # Setup
 > **Note:** It doesn't work on Replit, use instead Codespace.
-Requirements: Hugo (version 0.87.0 or later)
+
+> **Requirements:** Hugo (version 0.87.0 or later)
 
 Run 2 or 3 times: npx blowfish-tools
 
