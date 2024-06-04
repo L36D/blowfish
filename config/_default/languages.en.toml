@@ -14,3 +14,4 @@ name = "L01D"
 image = "IMG_3225.jpeg"
 headline = "idk"
 bio = "idk"
+links = [ { github = "https://github.com/IL01DI" } ]

@@ -5,15 +5,16 @@ enableSearch = true
 enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
+defaultBackgroundImage = "866314.jpg"
 
 [header]
-layout = "basic"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
 showCopyright = true
 showThemeAttribution = true
-showAppearanceSwitcher = true
+showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
@@ -25,6 +26,7 @@ showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
+homepageImage = "sangonomiya-kokomi-genshin-impact-desktop-wallpaperwaifu-com.webm"
 
 [article]
 showDate = true
@@ -59,7 +61,7 @@ showBreadcrumbs = false
 showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 showCards = false
 groupByYear = true
 cardView = false
@@ -72,10 +74,10 @@ excludedKinds = [ "taxonomy", "term" ]
 [taxonomy]
 showTermCount = true
 showHero = false
-showBreadcrumbs = false
+showBreadcrumbs = true
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 cardView = false
 
 [term]
