@@ -14,5 +14,7 @@ It will put the files on a folder called 'newSites' (as a default).
 
 Put outside of the folder
 
+If you get an error about not being allowed to deploy to github-pages due to environment protection rules, make sure you remove any existing GitHub pages environments.
+
 # Special Credits
 https://blowfish.page/
