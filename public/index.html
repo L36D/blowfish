@@ -68,12 +68,14 @@
   <meta property="og:url" content="http://localhost:1313/">
   <meta property="og:site_name" content="L01D">
   <meta property="og:title" content="L01D">
+  <meta property="og:description" content="High school student">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="L01D">
+  <meta name="twitter:description" content="High school student">
 
   
   <script type="application/ld+json">
@@ -143,6 +145,9 @@
 
   
   
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8476056241438663"
+     crossorigin="anonymous"></script>
+  
   <meta name="theme-color"/>
   
   
@@ -191,7 +196,7 @@
   <div class="cursor-pointer flex items-center nested-menu">
     
     <a  class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="">
-      Parent
+      Music Station
     </a>
     <span>
       
@@ -222,14 +227,7 @@
         <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
           
           <p class="text-sm font-sm" title="">
-            example sub-menu 1
-          </p>
-        </a>
-        
-        <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-          
-          <p class="text-sm font-sm" title="">
-            example sub-menu 2
+            Classical
           </p>
         </a>
         
@@ -345,7 +343,7 @@
     <a class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Parent
+            Music Station
         </p>
         <span>
             
@@ -375,16 +373,7 @@
     <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-sm font-small" title="">
-            example sub-menu 1
-        </p>
-    </a>
-</li>
-
-<li class="mt-1">
-    <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
-        
-        <p class="text-sm font-small" title="">
-            example sub-menu 2
+            Classical
         </p>
     </a>
 </li>
@@ -494,7 +483,8 @@
                         </div>
                         
                     </div>
-                    <section class="prose dark:prose-invert"></section>
+                    <section class="prose dark:prose-invert"><p>High school student</p>
+</section>
                 </div>
             </div>
         </div>
@@ -507,10 +497,25 @@
 
 </section>
 
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
 
   
 
-      
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   

@@ -25,7 +25,7 @@ showMoreLink = false
 showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
 homepageImage = "866314.jpg"
 
 [article]
