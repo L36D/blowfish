@@ -1,5 +1,5 @@
 # Setup
-> **Note:** It doesn't work on Replit, use instead Codespace.
+> **Note:** It doesn't work on Replit.
 
 > **Requirements:** Hugo (version 0.87.0 or later)
 
