@@ -68,14 +68,14 @@
   <meta property="og:url" content="http://localhost:1313/">
   <meta property="og:site_name" content="L01D">
   <meta property="og:title" content="L01D">
-  <meta property="og:description" content="High school student">
+  <meta property="og:description" content=" ">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="website">
 
   
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="L01D">
-  <meta name="twitter:description" content="High school student">
+  <meta name="twitter:description" content=" ">
 
   
   <script type="application/ld+json">
@@ -196,7 +196,7 @@
   <div class="cursor-pointer flex items-center nested-menu">
     
     <a  class="text-base font-medium text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="">
-      Music Station
+      Parent
     </a>
     <span>
       
@@ -227,7 +227,14 @@
         <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
           
           <p class="text-sm font-sm" title="">
-            Classical
+            example sub-menu 1
+          </p>
+        </a>
+        
+        <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+          
+          <p class="text-sm font-sm" title="">
+            example sub-menu 2
           </p>
         </a>
         
@@ -343,7 +350,7 @@
     <a class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
-            Music Station
+            Parent
         </p>
         <span>
             
@@ -373,7 +380,16 @@
     <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-sm font-small" title="">
-            Classical
+            example sub-menu 1
+        </p>
+    </a>
+</li>
+
+<li class="mt-1">
+    <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-sm font-small" title="">
+            example sub-menu 2
         </p>
     </a>
 </li>
@@ -483,8 +499,23 @@
                         </div>
                         
                     </div>
-                    <section class="prose dark:prose-invert"><p>High school student</p>
-</section>
+                    <section class="prose dark:prose-invert">  <!-- Element to contain animated typing -->
+<p><span id="element"></span></p>
+  <!-- Load library from the CDN -->
+  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+  <!-- Setup and start animation! -->
+  <script>
+    var typed = new Typed('#element', {
+      strings: ['Der Mensch kann zwar tun, was er will, aber er kann nicht wollen, was er will', 'A man can do what he wants, but not want what he wants', '- Arthur Schopenhauer'],
+        startDelay: 50,
+        typeSpeed: 100,
+        backSpeed: 50,
+        loop: true,
+        showCursor: true,
+        shuffle: false
+  });
+  </script>
+</body></section>
                 </div>
             </div>
         </div>
@@ -509,13 +540,7 @@
 
   
 
-      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
-  <a href="#the-top"
-    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
-    aria-label="Scroll to top" title="Scroll to top">
-    &uarr;
-  </a>
-</div>
+      
     </main><footer id="site-footer" class="py-10 print:hidden">
   
   
