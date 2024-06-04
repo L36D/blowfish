@@ -7,6 +7,7 @@ buildDrafts = false
 buildFuture = false
 enableEmoji = true
 baseURL = "https://il01di.github.io/"
+googleAnalytics = "8470040530"
 
 [imaging]
 anchor = "Center"
