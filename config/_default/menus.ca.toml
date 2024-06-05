@@ -12,7 +12,7 @@ weight = 20
 none = "none"
 
 [[main]]
-name = "Projects"
+name = "Projectes"
 pageRef = "projects"
 identifier = "5ZCkMTWhMu"
 weight = 1

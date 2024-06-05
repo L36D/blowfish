@@ -11,7 +11,7 @@ description: ""
   <!-- Setup and start animation! -->
   <script>
     var typed = new Typed('#element', {
-      strings: ['Der Mensch kann zwar tun, was er will, aber er kann nicht wollen, was er will', 'Lu homu pode facere-a qwa-a ei-a-p cupe-a-p, sed ei non cupe qwa-a ei-a-p cupe-a-p', '- Arthur Schopenhauer'],
+      strings: ['Der Mensch kann zwar tun, was er will, aber er kann nicht wollen, was er will', 'lu homu pode facere-a qwa-a ei-a-p cupe-a-p, sed ei non cupe qwa-a ei-a-p cupe-a-p', '- Arthur Schopenhauer'],
         startDelay: 50,
         typeSpeed: 100,
         backSpeed: 50,

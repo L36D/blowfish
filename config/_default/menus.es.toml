@@ -4,7 +4,7 @@ pageRef = "tags"
 weight = 10
 
 [[footer]]
-name = "Categories"
+name = "Categorías"
 pageRef = "categories"
 weight = 20
 
@@ -12,7 +12,7 @@ weight = 20
 none = "none"
 
 [[main]]
-name = "Projects"
+name = "Proyectos"
 pageRef = "projects"
 identifier = "5ZCkMTWhMu"
 weight = 1

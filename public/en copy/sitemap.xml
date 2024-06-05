@@ -8,12 +8,27 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
+      hreflang="la"
+      href="http://localhost:1313/la/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="en"
+      hreflang="es"
+      href="http://localhost:1313/es/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ca"
+      href="http://localhost:1313/ca/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en copy"
       href="http://localhost:1313/en%20copy/"
     />
   </url>
