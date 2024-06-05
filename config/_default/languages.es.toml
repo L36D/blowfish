@@ -1,0 +1,16 @@
+languageCode = "es"
+languageName = "Castellano"
+weight = 3
+title = "L01D"
+
+[params]
+displayName = "Español"
+isoCode = "es"
+rtl = false
+dateFormat = "2 January 2006"
+
+[author]
+name = "L01D"
+image = "IMG_3225.jpeg"
+headline = "Un solitario, un filósofo."
+bio = "Un solitario, un filósofo."

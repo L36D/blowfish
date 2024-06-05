@@ -1,10 +1,10 @@
 languageCode = "en"
 languageName = "English"
-weight = 1
+weight = 2
 title = "L01D"
 
 [params]
-displayName = "EN"
+displayName = "English"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
@@ -12,6 +12,5 @@ dateFormat = "2 January 2006"
 [author]
 name = "L01D"
 image = "IMG_3225.jpeg"
-headline = "idk"
-bio = "idk"
-links = [ { github = "https://github.com/IL01DI" } ]
+headline = "A loner, a philosopher."
+bio = "A loner, a philosopher."
