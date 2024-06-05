@@ -9,11 +9,11 @@
     <copyright>© 2024 L01D</copyright>
     <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/la/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/la/projects/1717611352698-l/</link>
+      <title>projectus</title>
+      <link>http://localhost:1313/la/projects/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/la/projects/1717611352698-l/</guid>
+      <guid>http://localhost:1313/la/projects/</guid>
       <description>an example to get you started</description>
       
     </item>

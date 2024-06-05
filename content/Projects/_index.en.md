@@ -6,8 +6,6 @@ description: "a description"
 tags: ["example", "tag"]
 
 showDate : false
-showDate : false
-showDateOnlyInArticle : false
 showDateUpdated : false
 showHeadingAnchors : false
 showPagination : false
@@ -17,8 +15,5 @@ showTaxonomies : false
 showWordCount : false
 showSummary : false
 sharingLinks : false
-showEdit: false
-showViews: true
-showLikes: false
-layoutBackgroundHeaderSpace: false
+
 ---

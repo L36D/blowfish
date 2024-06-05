@@ -9,21 +9,21 @@
     <copyright>© 2024 L01D</copyright>
     <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/la/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>http://localhost:1313/la/tags/example/</link>
+      <title>Projects</title>
+      <link>http://localhost:1313/la/tags/projects/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/la/tags/example/</guid>
+      <guid>http://localhost:1313/la/tags/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Tag</title>
-      <link>http://localhost:1313/la/tags/tag/</link>
+      <title>Sample</title>
+      <link>http://localhost:1313/la/tags/sample/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/la/tags/tag/</guid>
+      <guid>http://localhost:1313/la/tags/sample/</guid>
       <description></description>
       
     </item>
