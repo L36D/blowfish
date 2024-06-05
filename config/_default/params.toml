@@ -29,16 +29,16 @@ layoutBackgroundBlur = true
 homepageImage = "866314.jpg"
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -46,33 +46,36 @@ seriesOpened = false
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
-showReadingTime = true
+showReadingTime = false
 showTableOfContents = false
-showTaxonomies = false
-showAuthorsBadges = false
-showWordCount = true
+showTaxonomies = true
+showAuthorsBadges = true
+showWordCount = false
 showZenMode = false
+heroStyle = "background"
+relatedContentLimit = ""
 
 [list]
-showHero = false
+showHero = ""
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
-showSummary = false
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = ""
+showSummary = ""
 showViews = false
 showLikes = false
 showTableOfContents = true
 showCards = true
 groupByYear = true
-cardView = false
+cardView = true
 cardViewScreenWidth = false
-constrainItemsWidth = false
+constrainItemsWidth = true
+heroStyle = "basic"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
-showTermCount = true
+showTermCount = false
 showHero = false
 showBreadcrumbs = true
 showViews = false

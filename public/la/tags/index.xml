@@ -9,21 +9,41 @@
     <copyright>© 2024 L01D</copyright>
     <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/la/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/la/tags/projects/</link>
+      <title>Conlang</title>
+      <link>http://localhost:1313/la/tags/conlang/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/la/tags/projects/</guid>
+      <guid>http://localhost:1313/la/tags/conlang/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Sample</title>
-      <link>http://localhost:1313/la/tags/sample/</link>
+      <title>Lingua</title>
+      <link>http://localhost:1313/la/tags/lingua/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/la/tags/sample/</guid>
+      <guid>http://localhost:1313/la/tags/lingua/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Notion</title>
+      <link>http://localhost:1313/la/tags/notion/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/la/tags/notion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>http://localhost:1313/la/tags/language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/la/tags/language/</guid>
       <description></description>
       
     </item>
