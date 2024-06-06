@@ -16,3 +16,9 @@ name = "Projects"
 pageRef = "projects"
 identifier = "5ZCkMTWhMu"
 weight = 1
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "BChxSd7hCX"
+weight = 2
