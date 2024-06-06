@@ -26,12 +26,18 @@ However, I don't agree the nowadays conception of friendship since  many online 
 
 Therefore, I should define what is a friend. First of all, if one seeks someone just to be loved by loving that someone, does that make someone a friend? Not necessarily, but, at least to be a friend, that one must also love the one solely to be loved. The end and the aim of love is by itself love.
 
-Since it is necessary to love someone in life, the highest love would always be the one, the dearest of all within one life, the most meaningful within our minds: a childhood friend, a lover.
-
+Since it is necessary to love someone in life, the highest love would always be the one, the dearest of all within one life to stay, the most meaningful within our mind to share: a childhood friend.
 
 ## Solitude & lonely
+But what about the other who never had a childhood friend? Ever since I have been alone, I remained lonely in a long-term period, seeking what I need the most, something that is more meaningful to me, and yet I still lack: a friend. But even so, two years ago (written in 2024) I found someone who deeply cared me and made me think that she might be a friend. Now, I don't even know if she really is my friend or a part of a list friend.
 
+The lack of significance towards friendship made me so anxious in my existence that I don't even know what to step forward, even my definition doesn't match with action. It is either leaving her because she doesn't love me as a friend or stay with her to love me as a friend.
+
+But since neither the first nor the second option is viable, maybe this website leaves me some space to share the unknown to understand what I suffer from lonely and everything I have been living. I may not share with her anymore, the one I should share is by itself is.
+
+As for my solitude, I prefer to stay on a minimal social contact in a calm environment, no crowds, no noises. 
 
 # A philosopher
-- Why I am philosopher?
-- What is a philosopher?
+Philosophy, or should I say love of wisdom? Both terms, as it appears to me, are the same.
+I, myself, love wisdom and I would like to become, one day, a sage. 
+For now, I just called myself a philosopher because (1) I love to be wise, (2) I pursue wisdom, (3) I spend part of my free time on philosophy.
