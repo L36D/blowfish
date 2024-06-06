@@ -18,7 +18,7 @@ Btw, I have very weak family ties.
 ## Friendship as true love
 The truth above all these appearences lies in the lies of tradition.
 
-Every human being love to be loved. Whatever love is, it is the true beauty behind all the things we love, it is the only one who loves itself and be loved itself. It is so perfect that the only thing it can do is to love itself. From love derives everything.
+Every human being love to be loved. Whatever love is, it is the true beauty behind all the things we love, it is the only one who loves itself and be loved itself. It is so perfect that the only thing it can do is to love itself. From love derives everything inside existence, giving all the essence it needs from love.
 
 
 ## Why I am a loner?
