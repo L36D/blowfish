@@ -17,8 +17,9 @@ Btw, I have very weak family ties.
 
 ## Friendship as true love
 The truth above all these appearences lies in the lies of tradition.
-- Friendship as true love
-- Why I am a loner?
+
+Every human being love to be loved. Whatever love is, love is the true beauty behind all the beautiness
+## Why I am a loner?
 
 # A philosopher
 - Why I am philosopher?
