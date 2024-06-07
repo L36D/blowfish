@@ -40,6 +40,16 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ca"
+      href="http://localhost:1313/ca/projects/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="la"
       href="http://localhost:1313/la/projects/"
     />
