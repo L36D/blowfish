@@ -2,8 +2,6 @@
 title: "L01D"
 description: ""
 ---
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self'">
-
   <!-- Element to contain animated typing -->
   <span id="element"></span>
 
