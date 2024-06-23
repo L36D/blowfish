@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jocu on L01D</title>
+    <link>http://localhost:1313/la/tags/jocu/</link>
+    <description>Recent content in Jocu on L01D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>la</language>
+    <copyright>© 2024 L01D</copyright>
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/la/tags/jocu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2048</title>
+      <link>http://localhost:1313/la/projects/1717780888238-2048/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/la/projects/1717780888238-2048/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

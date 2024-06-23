@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     <copyright>© 2024 L01D</copyright>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ca/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ca/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2048</title>
+      <link>http://localhost:1313/ca/projects/1717780888238-2048/</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ca/projects/1717780888238-2048/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Latina</title>
       <link>http://localhost:1313/ca/projects/1717621534777-latina/</link>
