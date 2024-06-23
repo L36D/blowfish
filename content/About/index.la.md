@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "super"
 date: 2024-06-06
 draft: false
 description: "About me."
