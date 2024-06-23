@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://il01di.github.io/es/</loc>
+    <loc>http://localhost:1313/es/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="la"
-      href="https://il01di.github.io/la/"
+      href="http://localhost:1313/la/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://il01di.github.io/"
+      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ca"
-      href="https://il01di.github.io/ca/"
+      href="http://localhost:1313/ca/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://il01di.github.io/es/"
+      href="http://localhost:1313/es/"
     />
   </url>
   <url>
-    <loc>https://il01di.github.io/es/projects/</loc>
+    <loc>http://localhost:1313/es/projects/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="la"
-      href="https://il01di.github.io/la/projects/"
+      href="http://localhost:1313/la/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://il01di.github.io/projects/"
+      href="http://localhost:1313/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ca"
-      href="https://il01di.github.io/ca/projects/"
+      href="http://localhost:1313/ca/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="https://il01di.github.io/es/projects/"
+      href="http://localhost:1313/es/projects/"
     />
   </url>
 </urlset>
