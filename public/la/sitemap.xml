@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/la/</loc>
+    <loc>https://il01di.github.io/la/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="https://il01di.github.io/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/es/"
+      href="https://il01di.github.io/es/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ca"
-      href="http://localhost:1313/ca/"
+      href="https://il01di.github.io/ca/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="la"
-      href="http://localhost:1313/la/"
+      href="https://il01di.github.io/la/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/la/about/</loc>
+    <loc>https://il01di.github.io/la/about/</loc>
     <lastmod>2024-06-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/la/projects/</loc>
+    <loc>https://il01di.github.io/la/projects/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/projects/"
+      href="https://il01di.github.io/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/es/projects/"
+      href="https://il01di.github.io/es/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ca"
-      href="http://localhost:1313/ca/projects/"
+      href="https://il01di.github.io/ca/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="la"
-      href="http://localhost:1313/la/projects/"
+      href="https://il01di.github.io/la/projects/"
     />
   </url>
 </urlset>
