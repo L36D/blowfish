@@ -18,7 +18,7 @@ identifier = "5ZCkMTWhMu"
 weight = 1
 
 [[main]]
-name = "Super"
+name = "super"
 pageRef = "about"
 identifier = "BChxSd7hCX"
 weight = 2
