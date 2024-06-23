@@ -1,12 +1,19 @@
 [[footer]]
-name = "Tags"
+name = "tags"
 pageRef = "tags"
-weight = 10
+weight = 1
 
 [[footer]]
 name = "categorĭas"
 pageRef = "categories"
-weight = 20
+weight = 2
+
+[[footer]]
+name = "statu"
+url = "https://l01d-status.openstatus.dev/"
+identifier = "vxScehyusI"
+weight = 3
+
 
 [[main]]
 none = "none"
