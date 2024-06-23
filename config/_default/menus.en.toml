@@ -8,6 +8,12 @@ name = "Categories"
 pageRef = "categories"
 weight = 20
 
+[[footer]]
+name = "Status"
+url = "https://l01d-status.openstatus.dev/"
+identifier = "vxScehyusI"
+weight = 9999
+
 [[main]]
 none = "none"
 
