@@ -10,7 +10,7 @@ weight = 2
 
 [[footer]]
 name = "Estado"
-url = "https://l01d-status.openstatus.dev/"
+url = "https://l01d.openstatus.dev/"
 identifier = "vxScehyusI"
 weight = 3
 
