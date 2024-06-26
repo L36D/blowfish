@@ -6,7 +6,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 enableEmoji = true
-baseURL = "https://il01di.github.io/"
+baseURL = "https://il01di.netlify.app/"
 googleAnalytics = "G-TKZKZZQPZ5"
 
 [imaging]
