@@ -14,6 +14,12 @@ url = "https://l01d.openstatus.dev/"
 identifier = "vxScehyusI"
 weight = 3
 
+[[footer]]
+name = "Statistics"
+url = "https://cloud.umami.is/share/hgTNxfNOtWvgfRKK/l01d.pages.dev"
+identifier = "58kIewLIZI"
+weight = 4
+
 [[main]]
 none = "none"
 
