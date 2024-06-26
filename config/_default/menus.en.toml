@@ -27,17 +27,17 @@ none = "none"
 name = "Projects"
 pageRef = "projects"
 identifier = "5ZCkMTWhMu"
-weight = 1
+weight = 2
 
 [[main]]
 name = "About"
 pageRef = "about"
 identifier = "BChxSd7hCX"
-weight = 2
+weight = 3
 
 [[main]]
 name = "GitProfile"
 pre = "github"
 url = "https://il01di.github.io/gitprofile"
 identifier = "fN1CU1GwpY"
-weight = 3
+weight = 1
