@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on L01D</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on L01D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 L01D</copyright>
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unhappy life</title>
+      <link>http://localhost:1313/blog/1719654040618/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/1719654040618/</guid>
+      <description>Hate towards me # I hate myself, not because I hate my life, but the whole circumstances around me.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
-title: "super"
+title: "About"
 date: 2024-06-06
-draft: true
+draft: false
 description: "About me."
 ---
 

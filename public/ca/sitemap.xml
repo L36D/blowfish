@@ -54,4 +54,30 @@
       href="http://localhost:1313/ca/projects/"
     />
   </url>
+  <url>
+    <loc>http://localhost:1313/ca/blog/</loc>
+    <lastmod>2022-06-13T20:55:37+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="la"
+      href="http://localhost:1313/la/blog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="http://localhost:1313/es/blog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ca"
+      href="http://localhost:1313/ca/blog/"
+    />
+  </url>
 </urlset>
