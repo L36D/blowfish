@@ -97,8 +97,8 @@ cardViewScreenWidth = false
 [fathomAnalytics]
 
 [umamiAnalytics]
-  # websiteid = "e7836db3-427c-4f49-a3ed-3edfb31dee1a"
-  # domain = "l01d.pages.dev"
+  websiteid = "e7836db3-427c-4f49-a3ed-3edfb31dee1a"
+  domain = "l01d.pages.dev"
 
 [buymeacoffee]
   identifier = "L01D"
