@@ -99,5 +99,10 @@ cardViewScreenWidth = false
 [umamiAnalytics]
 
 [buymeacoffee]
+  identifier = "L01D"
+  globalWidget = true
+  globalWidgetMessage = ""
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
