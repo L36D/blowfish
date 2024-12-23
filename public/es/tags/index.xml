@@ -6,47 +6,7 @@
     <description>Recent content in Tags on L01D</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>© 2024 L01D</copyright>
-    <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Juego</title>
-      <link>http://localhost:1313/es/tags/juego/</link>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/es/tags/juego/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Conlang</title>
-      <link>http://localhost:1313/es/tags/conlang/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/es/tags/conlang/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Lengua</title>
-      <link>http://localhost:1313/es/tags/lengua/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/es/tags/lengua/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Notion</title>
-      <link>http://localhost:1313/es/tags/notion/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/es/tags/notion/</guid>
-      <description></description>
-      
-    </item>
-    
+    <copyright>© 2024 </copyright>
+    <atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

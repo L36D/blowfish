@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 2
-title = "L01D"
+title = "Aristonous"
 
 [params]
 displayName = "English"
@@ -10,7 +10,7 @@ rtl = false
 dateFormat = "2 January 2006"
 
 [author]
-name = "L01D"
+name = "Aristonous"
 image = "IMG_3225.jpeg"
-headline = "Formerly an excellent student, but now I'm not."
-bio = "A loner, a philosopher."
+headline = "A weird person."
+bio = "Self-proclaimed philosopher"

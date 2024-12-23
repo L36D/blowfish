@@ -77,7 +77,6 @@
 
   
   
-  <meta name="author" content="L01D" />
   
   
   
@@ -117,17 +116,23 @@
 </script>
 
 
+
+<script data-id="umami-script" async src="https://l01d.pages.dev/script.js" data-website-id="e7836db3-427c-4f49-a3ed-3edfb31dee1a">
+</script>
+
+
+<script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]').addEventListener('load', function () {
+        const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
+        let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
+        let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
+        umami.track(type + ':' + title, {'url': url});
+    });
+</script>
+
   
   
   
-
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="l01d" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
-
- 
-
-<script defer src="https://cloud.umami.is/script.js" data-website-id="e7836db3-427c-4f49-a3ed-3edfb31dee1a"></script>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8476056241438663"
-     crossorigin="anonymous"></script>
 
   
   <meta name="theme-color"/>
@@ -163,7 +168,7 @@
             
             
             
-  <a href="/ca/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+  <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
     
     <p class="text-base font-medium" title="">
         Projectes
@@ -216,27 +221,27 @@
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
       <div class="flex flex-col space-y-3">
         
-        <a href="/la/series/" class="flex items-center">
-          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
-            Latina
-          </p>
-        </a>
-        
         <a href="/series/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
             English
           </p>
         </a>
         
-        <a href="/es/series/" class="flex items-center">
+        <a href="/ca/series/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
-            Español
+            
           </p>
         </a>
         
-        <a href="/ca/series/" class="flex items-center">
+        <a href="/es/series/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
-            Català
+            
+          </p>
+        </a>
+        
+        <a href="/la/series/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
+            
           </p>
         </a>
         
@@ -289,27 +294,27 @@
     <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl">
       <div class="flex flex-col space-y-3">
         
-        <a href="/la/series/" class="flex items-center">
-          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
-            Latina
-          </p>
-        </a>
-        
         <a href="/series/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
             English
           </p>
         </a>
         
-        <a href="/es/series/" class="flex items-center">
+        <a href="/ca/series/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
-            Español
+            
           </p>
         </a>
         
-        <a href="/ca/series/" class="flex items-center">
+        <a href="/es/series/" class="flex items-center">
           <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
-            Català
+            
+          </p>
+        </a>
+        
+        <a href="/la/series/" class="flex items-center">
+          <p class="text-sm font-sm text-gray-500 hover:text-primary-600 dark:hover:text-primary-400" title="Series">
+            
           </p>
         </a>
         
@@ -375,7 +380,7 @@
 
                     
   <li class="mt-1">
-    <a href="/ca/projects/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    <a href=""  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
         
         <p class="text-bg font-bg" title="">
             Projectes
@@ -580,7 +585,7 @@
     <p class="text-sm text-neutral-500 dark:text-neutral-400">
       &copy;
       2024
-      L01D
+      
     </p>
     
 
@@ -666,5 +671,9 @@
 
   </div>
 </body>
+
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
+  data-id="L01D" data-description="Support me on Buy me a coffee!" data-message=""
+  data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 
 </html>

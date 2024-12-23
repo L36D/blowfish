@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Game on L01D</title>
+    <title>Game on Aristonous</title>
     <link>http://localhost:1313/tags/game/</link>
-    <description>Recent content in Game on L01D</description>
+    <description>Recent content in Game on Aristonous</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 L01D</copyright>
+    <copyright>© 2024 Aristonous</copyright>
     <lastBuildDate>Fri, 07 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2048</title>
