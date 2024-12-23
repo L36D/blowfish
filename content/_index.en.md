@@ -20,4 +20,5 @@ description: ""
         shuffle: false
   });
   </script>
+  <iframe id='banner_advert_wrapper_10436' src='https://api.fpadserver.com/banner?id=10436&size=120x60' width='120px' height='60px' frameborder='0'></iframe>
 </body>
