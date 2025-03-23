@@ -1,7 +1,7 @@
 ---
 title: "Fragments of Parmenides"
 date: 2024-12-07
-draft: false
+draft: true
 description: "a description"
 tags: ["Text", "Philosophy", "Greek"]
 ---
