@@ -36,18 +36,6 @@ identifier = "BChxSd7hCX"
 weight = 6
 
 [[main]]
-name = "Repo"
-url = "https://il01di.github.io/repo/"
-identifier = "jzc2wECjLs"
-weight = 3
-
-[[main]]
-name = "PFP Gallery"
-url = "https://photos.app.goo.gl/TrSP6AEfWcKs33BK8"
-identifier = "zRrNvnNlOx"
-weight = 2
-
-[[main]]
 name = "Posts"
 pageRef = "posts"
 identifier = "qpZPo85qas"
@@ -67,13 +55,6 @@ name = "About"
 pageRef = "about"
 identifier = "BChxSd7hCX"
 weight = 6
-
-[[main]]
-name = "GitProfile"
-pre = "github"
-url = "https://il01di.github.io/gitprofile"
-identifier = "fN1CU1GwpY"
-weight = 1
 
 [[main]]
 name = "Repo"
