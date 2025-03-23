@@ -6,18 +6,8 @@
     <description>Recent content in Projects on Aristonous</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Aristonous</copyright>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>IN</title>
-      <link>http://localhost:1313/projects/1719160356422-in/</link>
-      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/projects/1719160356422-in/</guid>
-      <description></description>
-      
-    </item>
     
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2048</title>
       <link>http://localhost:1313/projects/1717780888238-2048/</link>

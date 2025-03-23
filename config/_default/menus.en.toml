@@ -21,9 +21,6 @@ identifier = "58kIewLIZI"
 weight = 4
 
 [[main]]
-none = "none"
-
-[[main]]
 name = "Projects"
 pageRef = "projects"
 identifier = "5ZCkMTWhMu"
@@ -34,33 +31,6 @@ name = "About"
 pageRef = "about"
 identifier = "BChxSd7hCX"
 weight = 6
-
-[[main]]
-name = "Posts"
-pageRef = "posts"
-identifier = "qpZPo85qas"
-weight = 4
-
-[[main]]
-none = "none"
-
-[[main]]
-name = "Projects"
-pageRef = "projects"
-identifier = "5ZCkMTWhMu"
-weight = 5
-
-[[main]]
-name = "About"
-pageRef = "about"
-identifier = "BChxSd7hCX"
-weight = 6
-
-[[main]]
-name = "Repo"
-url = "https://il01di.github.io/repo/"
-identifier = "jzc2wECjLs"
-weight = 3
 
 [[main]]
 name = "Posts"
