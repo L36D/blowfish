@@ -1,0 +1,16 @@
+languageCode = "es"
+languageName = "Spanish"
+weight = 2
+title = "Aristonous"
+
+[params]
+displayName = "ES"
+isoCode = "es"
+rtl = false
+dateFormat = "2 January 2006"
+
+[params.author]
+name = "Aristonous"
+image = "IMG_3225.jpg"
+headline = "A true philosopher"
+bio = "Philosopher that wants to be a sage, polymath & erudite"

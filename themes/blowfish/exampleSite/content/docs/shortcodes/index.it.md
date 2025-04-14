@@ -1,6 +1,6 @@
 ---
 title: "Shortcodes"
-date: 2020-08-11
+weight: 6
 draft: false
 description: "All the shortcodes available in Blowfish."
 slug: "shortcodes"
@@ -104,7 +104,7 @@ New article!
 
 ## Button
 
-`button` outputs a styled button component which can be used to highlight a primary action. It has two optional variables `href` and `target` which can be used to specify the URL and target of the link.
+`button` outputs a styled button component which can be used to highlight a primary action. It has three optional variables `href`, `target` and `rel` which can be used to specify the URL, target and relation of the link.
 
 **Example:**
 
@@ -197,6 +197,8 @@ This shortcode is for importing code from external sources easily without copyin
 | --------- | ------------------------------------------------------- |
 | `url`     | **Required** URL to an externally hosted code file.     |
 | `type`    | Code type used for syntax highlighting.                 |
+| `startLine` | **Optional** The line number to start the import from.    |
+| `endLine` | **Optional** The line number to end the import at.        |
 
 
 <!-- prettier-ignore-end -->
@@ -209,6 +211,13 @@ This shortcode is for importing code from external sources easily without copyin
 
 ```
 {{< codeimporter url="https://raw.githubusercontent.com/nunocoracao/blowfish/main/layouts/shortcodes/mdimporter.html" type="go" >}}
+
+```md
+{{</* codeimporter url="https://raw.githubusercontent.com/nunocoracao/blowfish/main/config/_default/hugo.toml" type="toml" startLine="11" endLine="18" */>}}
+
+```
+
+{{< codeimporter url="https://raw.githubusercontent.com/nunocoracao/blowfish/main/config/_default/hugo.toml" type="toml" startLine="11" endLine="18">}}
 
 
 <br/><br/>
@@ -496,7 +505,7 @@ When life gives you lemons, make lemonade.
 | `value`    | The value that will need to match the parameter defined in `where` for the query of articles e.g. for `where` == `Type` a valid value could be `sample` |
 
 {{< alert >}}
-The `where` and `value` values are used in the following query `where .Site.RegularPages $where $value` in the code of the shortcode. Check [Hugo docs](https://gohugo.io/variables/page/) to learn more about which parameters are available to use.
+The `where` and `value` values are used in the following query `where .Site.RegularPages $where $value` in the code of the shortcode. Check [Hugo docs](https://gohugo.io/methods/page/) to learn more about which parameters are available to use.
 {{</ alert >}}
 
 <!-- prettier-ignore-end -->
@@ -512,7 +521,7 @@ The `where` and `value` values are used in the following query `where .Site.Regu
 **Example #2:**
 
 ```md
-{{</* list title="Samples" cardView=true limit=5 where="Type" value="sample" */>}}
+{{</* list title="Samples" cardView=true limit=6 where="Type" value="sample" */>}}
 ```
 
 {{< list title="Samples" cardView=true limit=6 where="Type" value="sample">}}
